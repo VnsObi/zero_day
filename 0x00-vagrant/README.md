@@ -1,1 +1,1 @@
-Linux
+How to navigate ubuntu vm
